@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="550" height="400">
+	<!-- Building shadow 1 -->
+	<rect width="110" height="330" x="10" y="70" style="fill: #143d69; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="105" y="85" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="105" y="105" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="105" y="115" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="105" y="125" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="105" y="145" style="fill: #cfc853; fill-opacity: 0.6" />
+	
+	<!-- Building shadow 2 -->
+	<polygon points="170,400 170,140 180,140 180,130 300,130 300,300 400,300 400,400 170,400" style="fill: #143d69; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="185" y="145" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="145" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="145" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="145" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="145" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="185" y="155" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="155" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="155" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="155" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="155" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="155" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="185" y="165" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="165" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="165" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="165" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="165" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="175" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="175" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="175" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="185" y="185" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="185" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="185" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="185" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="185" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="185" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="195" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="195" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="195" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="185" y="205" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="205" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="205" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="205" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="205" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="205" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="185" y="215" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="215" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="215" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="215" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="215" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="215" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="225" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="225" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="225" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="185" y="235" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="235" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="235" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="235" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="235" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="185" y="245" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="195" y="245" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="245" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="245" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="245" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="245" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="205" y="255" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="215" y="255" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="225" y="255" style="fill: #cfc853; fill-opacity: 0.6" />
+	<rect height="5" width="5" x="235" y="255" style="fill: #cfc853; fill-opacity: 0.6" />
+</svg>

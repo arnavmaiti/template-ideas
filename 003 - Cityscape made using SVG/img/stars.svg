@@ -1,0 +1,524 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="600">
+<circle cx="113" cy="296" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="194" cy="597" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="956" cy="452" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="555" cy="217" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="548" cy="411" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="914" cy="19" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="760" cy="152" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="128" cy="523" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="49" cy="584" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="436" cy="249" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="827" cy="75" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="357" cy="430" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="490" cy="89" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="179" cy="558" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="555" cy="101" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="278" cy="60" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="853" cy="451" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="751" cy="176" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="89" cy="541" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="132" cy="43" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="154" cy="482" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="218" cy="499" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="847" cy="316" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="828" cy="357" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="900" cy="135" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="600" cy="459" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="724" cy="389" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="912" cy="167" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="727" cy="147" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="768" cy="527" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="693" cy="554" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="913" cy="376" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="933" cy="2" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="527" cy="75" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="962" cy="537" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="510" cy="129" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="545" cy="326" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="197" cy="407" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="272" cy="308" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="416" cy="79" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="339" cy="324" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="406" cy="568" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="86" cy="342" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="215" cy="510" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="936" cy="412" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="77" cy="149" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="599" cy="431" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="605" cy="536" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="637" cy="54" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="721" cy="284" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="444" cy="46" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="546" cy="405" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="69" cy="487" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="183" cy="92" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="857" cy="74" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="823" cy="245" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="41" cy="26" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="887" cy="116" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="776" cy="488" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="310" cy="527" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="180" cy="291" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="371" cy="160" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="994" cy="91" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="973" cy="174" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="937" cy="17" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="573" cy="535" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="957" cy="558" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="204" cy="360" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="533" cy="337" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="841" cy="553" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="152" cy="321" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="542" cy="422" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="157" cy="296" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="20" cy="57" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="285" cy="98" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="186" cy="571" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="461" cy="108" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="265" cy="333" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="571" cy="319" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="878" cy="37" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="893" cy="313" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="345" cy="305" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="397" cy="311" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="852" cy="89" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="873" cy="487" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="254" cy="551" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="561" cy="521" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="476" cy="261" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="118" cy="345" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="802" cy="33" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="945" cy="382" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="58" cy="267" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="555" cy="132" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="666" cy="203" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="157" cy="235" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="994" cy="153" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="374" cy="336" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="997" cy="59" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="132" cy="175" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="13" cy="322" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="649" cy="145" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="220" cy="437" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="57" cy="228" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="736" cy="61" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="778" cy="380" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="32" cy="79" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="214" cy="515" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="89" cy="80" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="664" cy="166" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="916" cy="309" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="468" cy="112" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="339" cy="483" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="116" cy="459" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="569" cy="116" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="84" cy="520" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="568" cy="225" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="362" cy="226" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="740" cy="316" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="458" cy="93" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="398" cy="205" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="878" cy="291" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="794" cy="557" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="46" cy="69" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="574" cy="259" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="907" cy="288" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="136" cy="578" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="425" cy="89" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="757" cy="441" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="97" cy="105" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="265" cy="349" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="882" cy="106" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="415" cy="391" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="609" cy="222" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="725" cy="538" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="296" cy="181" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="212" cy="273" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="845" cy="594" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="640" cy="109" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="334" cy="42" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="572" cy="159" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="635" cy="338" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="778" cy="419" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="62" cy="396" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="5s" repeatCount="indefinite" />
+</circle>
+<circle cx="349" cy="106" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="8s" repeatCount="indefinite" />
+</circle>
+<circle cx="251" cy="461" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="243" cy="101" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="96" cy="360" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="576" cy="394" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="57" cy="16" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="890" cy="316" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="257" cy="598" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="260" cy="43" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="907" cy="420" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="485" cy="451" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="9s" repeatCount="indefinite" />
+</circle>
+<circle cx="436" cy="94" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="992" cy="540" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="568" cy="567" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="378" cy="166" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="1" cy="276" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="12s" repeatCount="indefinite" />
+</circle>
+<circle cx="864" cy="500" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="500" cy="450" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="102" cy="344" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="552" cy="68" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="7s" repeatCount="indefinite" />
+</circle>
+<circle cx="764" cy="532" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="256" cy="459" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="859" cy="72" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="198" cy="411" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="574" cy="354" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="11s" repeatCount="indefinite" />
+</circle>
+<circle cx="554" cy="572" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="198" cy="385" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="774" cy="389" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="6s" repeatCount="indefinite" />
+</circle>
+<circle cx="136" cy="250" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="14s" repeatCount="indefinite" />
+</circle>
+<circle cx="771" cy="37" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+<circle cx="510" cy="429" r="1" fill="#ffffff">
+<animate attributeType="CSS" attributeName="opacity" from="0.3" to="0.7" dur="13s" repeatCount="indefinite" />
+</circle>
+</svg>

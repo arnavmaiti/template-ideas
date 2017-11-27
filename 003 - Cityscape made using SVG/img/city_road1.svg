@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2000" height="150">
+	<!-- Main Road -->
+	<rect x="0" y="50" height="100" width="2000" fill="#282B2A"></rect>
+	<line x1="0" x2="2000" y1="55" y2="55" stroke="#FFFFFF" stroke-width="1"></line>
+	<line x1="0" x2="2000" y1="145" y2="145" stroke="#FFFFFF" stroke-width="1"></line>
+	<line x1="5" x2="2000" y1="100" y2="100" stroke="#E5E500" stroke-width="1" stroke-dasharray="10,10"></line>
+	<!-- Cars -->
+	<g id="car1" fill="none">
+		<path d="M 30,90 C 30,90 25,65 50,70 L 50,70 60,60 L 60,60 90,60 L 90,60 100,70 C 100,70 112,73 112,80 L 112,90 30,90 Z" fill="#0099ff"/>
+		<circle cx="50" cy="90" r="8" fill="#000000" />
+		<circle cx="50" cy="90" r="3" fill="#cccccc" />
+		<circle cx="95" cy="90" r="8" fill="#000000" />
+		<circle cx="95" cy="90" r="3" fill="#cccccc" />
+		<circle cx="40" cy="77" r="3" fill="#ffff9f" />
+		<path d="M 55,70 L 55,70 62,62 L 62,62 70,62 L 70,65 70,70 L 70,70 55,70" fill="#ffffff"/>
+		<path d="M 75,62 L 75,62 88,62 L 88,62 95,70 L 85,70 75,70 L 75,70 75,62" fill="#ffffff"/>
+		<animateMotion from="2000,0" to="-200,0" dur="15s" fill="freeze" repeatCount="indefinite" id="car1anim"/>
+	</g>
+	<g id="car2" fill="none">
+		<path d="M 30,90 C 30,90 25,65 50,70 L 50,70 60,60 L 60,60 90,60 L 90,60 100,70 C 100,70 112,73 112,80 L 112,90 30,90 Z" fill="#ff9900"/>
+		<circle cx="50" cy="90" r="8" fill="#000000" />
+		<circle cx="50" cy="90" r="3" fill="#cccccc" />
+		<circle cx="95" cy="90" r="8" fill="#000000" />
+		<circle cx="95" cy="90" r="3" fill="#cccccc" />
+		<circle cx="40" cy="77" r="3" fill="#ffff9f" />
+		<path d="M 55,70 L 55,70 62,62 L 62,62 70,62 L 70,65 70,70 L 70,70 55,70" fill="#ffffff"/>
+		<path d="M 75,62 L 75,62 88,62 L 88,62 95,70 L 85,70 75,70 L 75,70 75,62" fill="#ffffff"/>
+		<animateMotion from="2000,0" to="-200,0" dur="15s" fill="freeze" repeatCount="indefinite" id="car2anim" begin="5s"/>
+	</g>
+	<g id="car3" fill="none">
+		<path d="M 30,90 C 30,90 25,65 50,70 L 50,70 60,60 L 60,60 90,60 L 90,60 100,70 C 100,70 112,73 112,80 L 112,90 30,90 Z" fill="#595959"/>
+		<circle cx="50" cy="90" r="8" fill="#000000" />
+		<circle cx="50" cy="90" r="3" fill="#cccccc" />
+		<circle cx="95" cy="90" r="8" fill="#000000" />
+		<circle cx="95" cy="90" r="3" fill="#cccccc" />
+		<circle cx="40" cy="77" r="3" fill="#ffff9f" />
+		<path d="M 55,70 L 55,70 62,62 L 62,62 70,62 L 70,65 70,70 L 70,70 55,70" fill="#ffffff"/>
+		<path d="M 75,62 L 75,62 88,62 L 88,62 95,70 L 85,70 75,70 L 75,70 75,62" fill="#ffffff"/>
+		<animateMotion from="2000,40" to="-200,40" dur="15s" fill="freeze" repeatCount="indefinite" id="car3anim" begin="3s"/>
+	</g>
+	<g id="car4" fill="none">
+		<path d="M 30,90 C 30,90 25,65 50,70 L 50,70 60,60 L 60,60 90,60 L 90,60 100,70 C 100,70 112,73 112,80 L 112,90 30,90 Z" fill="#ff1a1a"/>
+		<circle cx="50" cy="90" r="8" fill="#000000" />
+		<circle cx="50" cy="90" r="3" fill="#cccccc" />
+		<circle cx="95" cy="90" r="8" fill="#000000" />
+		<circle cx="95" cy="90" r="3" fill="#cccccc" />
+		<circle cx="40" cy="77" r="3" fill="#ffff9f" />
+		<path d="M 55,70 L 55,70 62,62 L 62,62 70,62 L 70,65 70,70 L 70,70 55,70" fill="#ffffff"/>
+		<path d="M 75,62 L 75,62 88,62 L 88,62 95,70 L 85,70 75,70 L 75,70 75,62" fill="#ffffff"/>
+		<animateMotion from="2000,40" to="-200,40" dur="15s" fill="freeze" repeatCount="indefinite" id="car4anim" begin="8s"/>
+	</g>
+	<g id="car5" fill="none">
+		<path d="M 30,90 C 30,90 25,65 50,70 L 50,70 60,60 L 60,60 90,60 L 90,60 100,70 C 100,70 112,73 112,80 L 112,90 30,90 Z" fill="#000066"/>
+		<circle cx="50" cy="90" r="8" fill="#000000" />
+		<circle cx="50" cy="90" r="3" fill="#cccccc" />
+		<circle cx="95" cy="90" r="8" fill="#000000" />
+		<circle cx="95" cy="90" r="3" fill="#cccccc" />
+		<circle cx="40" cy="77" r="3" fill="#ffff9f" />
+		<path d="M 55,70 L 55,70 62,62 L 62,62 70,62 L 70,65 70,70 L 70,70 55,70" fill="#ffffff"/>
+		<path d="M 75,62 L 75,62 88,62 L 88,62 95,70 L 85,70 75,70 L 75,70 75,62" fill="#ffffff"/>
+		<animateMotion from="2000,0" to="-200,0" dur="15s" fill="freeze" repeatCount="indefinite" id="car5anim" begin="10s"/>
+	</g>
+	<g id="car6" fill="none">
+		<path d="M 30,90 C 30,90 25,65 50,70 L 50,70 60,60 L 60,60 90,60 L 90,60 100,70 C 100,70 112,73 112,80 L 112,90 30,90 Z" fill="#800000"/>
+		<circle cx="50" cy="90" r="8" fill="#000000" />
+		<circle cx="50" cy="90" r="3" fill="#cccccc" />
+		<circle cx="95" cy="90" r="8" fill="#000000" />
+		<circle cx="95" cy="90" r="3" fill="#cccccc" />
+		<circle cx="40" cy="77" r="3" fill="#ffff9f" />
+		<path d="M 55,70 L 55,70 62,62 L 62,62 70,62 L 70,65 70,70 L 70,70 55,70" fill="#ffffff"/>
+		<path d="M 75,62 L 75,62 88,62 L 88,62 95,70 L 85,70 75,70 L 75,70 75,62" fill="#ffffff"/>
+		<animateMotion from="2000,40" to="-200,40" dur="15s" fill="freeze" repeatCount="indefinite" id="car6anim" begin="13s"/>
+	</g>
+</svg>
