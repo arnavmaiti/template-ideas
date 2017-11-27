@@ -1,0 +1,291 @@
+/**
+* palette:
+* #C0B283 - Pale gold
+* #DCD0C0 - silk
+* #F4F4F4 - paper
+* #373737 - charcoal
+*/
+body {
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 100%;
+  width: 100%;
+  background: #DCD0C0;
+  z-index: -1;
+}
+.container::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  min-height: 100%;
+  background: #F4F4F4;
+  content: " ";
+  z-index: -1;
+}
+div[class^="col"], div[class*="col"] {
+  display: inline-block;
+  vertical-align: top;
+  z-index: 1;
+}
+.col10 {
+  width: 10%;
+}
+.col20 {
+  width: 20%;
+}
+.col30 {
+  width: 30%;
+}
+.col40 {
+  width: 40%;
+}
+.col50 {
+  width: 50%;
+}
+.col60 {
+  width: 60%;
+}
+.col70 {
+  width: 70%;
+}
+.col80 {
+  width: 80%;
+}
+.col90 {
+  width: 90%;
+}
+.col100 {
+  width: 100%;
+}
+.pale-gold-bg {
+  background: #C0B283;
+}
+.silk-bg {
+  background: #DCD0C0;
+}
+.paper-bg {
+  background: #F4F4F4;
+}
+.charcoal-bg {
+  background: #373737;
+}
+.pale-gold-text, .pale-gold-text * {
+  color: #C0B283;
+}
+.silk-text, .silk-text * {
+  color: #DCD0C0;
+}
+.paper-text, .paper-text * {
+  color: #F4F4F4;
+}
+.charcoal-text, .charcoal-text * {
+  color: #373737;
+}
+.pale-gold-text-shadow-l {
+  text-shadow: 2px 2px #C0B283;
+}
+.silk-text-text-shadow-l {
+  text-shadow: 2px 2px #DCD0C0;
+}
+.paper-text-shadow-l {
+  text-shadow: 2px 2px #F4F4F4;
+}
+.charcoal-text-shadow-l {
+  text-shadow: 2px 2px #373737;
+}
+.pale-gold-text-shadow-s {
+  text-shadow: 1px 1px #C0B283;
+}
+.silk-text-text-shadow-s {
+  text-shadow: 1px 1px #DCD0C0;
+}
+.paper-text-shadow-s {
+  text-shadow: 1px 1px #F4F4F4;
+}
+.charcoal-text-shadow-s {
+  text-shadow: 1px 1px #373737;
+}
+.right-align {
+  text-align: right;
+}
+.row {
+  width: 100%;
+}
+.logo {
+  font-size: 5em;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+  cursor: default;
+  transition: 1s;
+  min-height: 150px;
+}
+.logo:hover {
+  font-size: 6em;
+}
+.nav-left * {
+  font-size: 2rem;
+  text-decoration: none;
+  padding-right: 5px;
+  transition: 1s;
+}
+.nav-right * {
+  font-size: 2rem;
+  text-decoration: none;
+  padding-left: 5px;
+  transition: 1s;
+}
+.nav-left a:hover {
+  font-size: 2.4rem;
+}
+.nav-right a:hover {
+  font-size: 2.4rem;
+}
+.nav-right {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.nav-left {
+  padding-top: 50px;
+}
+.nav .anchor {
+  box-sizing: border-box;
+  height: 100px;
+}
+.footer {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+}
+#footer-left {
+  padding-right: 10px;
+  box-sizing: border-box;
+  padding-bottom: 10px;
+}
+#footer-right {
+  padding-left: 10px;
+  box-sizing: border-box;
+  padding-bottom: 5px;
+}
+#latest-tweet {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+#latest-tweet .circle {
+  margin: 10px;
+  height: 3em;
+  width: 3em;
+  display: table;
+  background: #F4F4F4;
+  color: #DCD0C0;
+  border-radius: 1.5em;
+  text-align: center;
+}
+#latest-tweet .circle a {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 1.5em;
+  text-decoration: none;
+  color: #DCD0C0;
+  transition: 1s;
+}
+#latest-tweet .circle a:hover {
+  font-size: 1.8em;
+}
+#latest-tweet .tweet {
+  margin-left: calc(3em + 10px);
+  height: 200px;
+  width: 300px;
+  background: #F4F4F4;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+  color: #373737;
+  text-shadow: 0px 0px #C0B283;
+}
+#motd {
+  padding-top: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+  height: 50%;
+}
+#motd .circle {
+  float: right;
+  height: 3em;
+  width: 3em;
+  display: table;
+  background: #DCD0C0;
+  color: #F4F4F4;
+  border-radius: 1.5em;
+  text-align: center;
+}
+#motd .circle span {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 1.5em;
+  text-decoration: none;
+  color: #F4F4F4;
+}
+#motd .message {
+  height: 200px;
+  width: 300px;
+  float: right;
+  background: #DCD0C0;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px;
+  color: #373737;
+  text-shadow: 0px 0px #C0B283;
+  text-align: justify;
+  box-sizing: border-box;
+  margin-top: 10px;
+  margin-right: calc(3em + 10px);
+}
+#motd .message a {
+  text-decoration: underline;
+  color: #F4F4F4;
+}
+#social {
+  position: absolute;
+  font-size: 1.5em;
+  bottom: 0;
+  right: 0;
+  box-sizing: border-box;
+  padding: 0 10px 10px 0;
+}
+#social .circle {
+  height: 2em;
+  width: 2em;
+  margin: 10px 10px 10px 10px;
+  background: #DCD0C0;
+  display: table;
+  text-align: center;
+  border-radius: 1em;
+}
+#social .circle a {
+  text-decoration: none;
+  transition: 1s;
+  display: table-cell;
+  vertical-align: middle;
+  color: #F4F4F4;
+}
+#social .circle a:hover {
+  font-size: 1.2em;
+}
